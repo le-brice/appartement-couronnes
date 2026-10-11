@@ -279,16 +279,6 @@ h2 {
   margin-bottom: 0;
 }
 
-/* Application */
-
-.application__privacy {
-  font-size: 0.86rem;
-  color: var(--text-muted);
-  border-top: 1px solid var(--border);
-  padding-top: 1.2rem;
-  margin-bottom: 1.8rem;
-}
-
 /* Footer */
 
 footer {
